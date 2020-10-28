@@ -1,5 +1,6 @@
 # About
 This repo contains code that uses classification to predict build to predict car mileage, given physical attributes of the car. All data used is from UCI Berkeley's public repository. This is a regression exercise that encompasses 'traditional' machine learning and neural networks, with a blog post detailing the effort and results written here: 
+[https://medium.com/towards-artificial-intelligence/machine-learning-and-deep-learning-a-systematic-application-f53b51f3b098]
 
 # Skills demonstrated
 Defining the problem
